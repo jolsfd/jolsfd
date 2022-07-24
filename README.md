@@ -39,3 +39,9 @@ I'm a porgrammer that is interested in cryptography, web development, microcontr
 <details>
 <img src="https://github-profile-trophy.vercel.app/?username=jolsfd&theme=radical&no-frame=true&no-bg=true&margin-w=42">
 </details>
+
+<hr/>
+
+<img src="https://github.com/jolsfd/jolsfd/blob/output/github-contribution-grid-snake-dark.svg">
+
+*generated with [Platane/snk](https://github.com/Platane/snk)*
