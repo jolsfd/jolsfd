@@ -30,9 +30,9 @@ I'm a porgrammer that is interested in cryptography, web development, microcontr
 # 📊 GitHub Stats
 
 <details open>
-<img src="https://github-readme-stats.vercel.app/api?username=jolsfd&theme=algolia&hide_border=true&include_all_commits=false&count_private=false"><br/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jolsfd&theme=algolia&hide_border=true&include_all_commits=false&count_private=false"><br/> --->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jolsfd&theme=algolia&hide_border=true"><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolsfd&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolsfd&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact"> --->
 </details>
 
 # 🏆 GitHub Trophies
