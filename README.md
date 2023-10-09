@@ -1,6 +1,6 @@
 # Hi there, I'm Jolsfd 👋
 
-I'm a porgrammer that is interested in cryptography, web development, microcontrollers, Linux and fullstack applications but in addition to that I've interests in science, society and the impact of current technologies. To learn more about my projects you can visit my [website](https://jolsfd.github.io). You may also consider to 🌟 a repository of mine.
+I'm a programmer that is interested in cryptography, web development, microcontrollers, Linux and fullstack applications but in addition to that I've interests in science, society and the impact of current technologies. To learn more about my projects you can visit my [website](https://jolsfd.github.io). You may also consider to 🌟 a repository of mine.
 
 # 💻 Tech Stack
 
@@ -43,6 +43,10 @@ I'm a porgrammer that is interested in cryptography, web development, microcontr
 
 <hr/>
 
-<img src="https://github.com/jolsfd/jolsfd/blob/output/github-contribution-grid-snake-dark.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jolsfd/jolsfd/raw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jolsfd/jolsfd/raw/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/jolsfd/jolsfd/raw/output/github-snake.svg" />
+</picture>
 
 *generated with [Platane/snk](https://github.com/Platane/snk)*
